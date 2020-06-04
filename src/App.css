@@ -1,23 +1,11 @@
-*{
-  box-sizing: border-box;
-  margin: auto;
-  padding: auto;
-
-}
-
 body{
-  font-family: Arial, Helvetica, sans-serif;
-  line-height: 1.4;
-  background-color: pink;
+  text-align: center;
+  background-color: lightblue;
+
 }
 h1{
-  text-align: center;
-  color: blue;
+  color: rgb(46, 5, 85);
 }
-p{
-  color: crimson;
-}
-a{
-  
-  text-decoration: none;
+form{
+  color: darkblue;
 }
